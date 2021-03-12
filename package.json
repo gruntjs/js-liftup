@@ -1,10 +1,10 @@
 {
-  "name": "liftoff",
-  "version": "4.0.0",
+  "name": "liftup",
+  "version": "3.0.0",
   "description": "Launch your command line tool with ease.",
-  "author": "Tyler Kellen (http://goingslowly.com/)",
+  "author": "Grunt Development Team (https://gruntjs.com/development-team)",
   "contributors": [],
-  "repository": "js-cli/js-liftoff",
+  "repository": "gruntjs/js-liftup",
   "license": "MIT",
   "engines": {
     "node": ">=10"
