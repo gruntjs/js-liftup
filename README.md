@@ -4,7 +4,7 @@
 
 > Launch your command line tool with ease.
 
-[![NPM](https://nodei.co/npm/liftoff.png)](https://nodei.co/npm/liftoff/)
+[![NPM](https://nodei.co/npm/liftup.png)](https://nodei.co/npm/liftup/)
 
 ## What is it?
 [See this blog post](http://weblog.bocoup.com/building-command-line-tools-in-node-with-liftoff/), [check out this proof of concept](https://github.com/js-cli/js-hacker), or read on.
