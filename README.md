@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="http://liftoffjs.com">
-    <img height="100" width="297" src="https://cdn.rawgit.com/tkellen/js-liftoff/master/artwork/liftoff.svg"/>
-  </a>
-</p>
+# liftup
 
-# liftoff [![Build Status](http://img.shields.io/travis/js-cli/js-liftoff.svg?label=travis-ci)](http://travis-ci.org/js-cli/js-liftoff) [![Build status](https://img.shields.io/appveyor/ci/phated/js-liftoff.svg?label=appveyor)](https://ci.appveyor.com/project/phated/js-liftoff)
-
+## Fork of https://github.com/js-cli/js-liftoff since version 2.2.1
 
 > Launch your command line tool with ease.
 

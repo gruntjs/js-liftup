@@ -3,6 +3,7 @@
   "rules": {
     "max-len": [0, 90],
     "max-statements": [1, 50],
-    "no-empty": ["error", { "allowEmptyCatch": true }]
+    "no-empty": ["error", { "allowEmptyCatch": true }],
+    "linebreak-style": 0
   }
 }
