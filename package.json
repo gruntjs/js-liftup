@@ -7,7 +7,7 @@
   "repository": "js-cli/js-liftoff",
   "license": "MIT",
   "engines": {
-    "node": ">= 8"
+    "node": ">=10"
   },
   "main": "index.js",
   "files": [
